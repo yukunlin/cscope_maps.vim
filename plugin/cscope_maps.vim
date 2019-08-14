@@ -30,9 +30,6 @@ if has("cscope")
 
     """"""""""""" Standard cscope/vim boilerplate
 
-    " use both cscope and ctag for 'ctrl-]', ':ta', and 'vim -t'
-    set cscopetag
-
     " check cscope for definition of a symbol before checking ctags: set to 1
     " if you want the reverse search order.
     set csto=0
